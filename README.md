@@ -1,2 +1,2 @@
 # Repository-DataAnalist-2023
-Author: Bram Bontinck
+Author: Bram Bontinck, Lembeek (Halle)
